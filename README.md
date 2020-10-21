@@ -17,9 +17,9 @@
 
 ## Languages, Platforms and Tools
 
-<img height="32" width="32" background-color="#E6526F" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apacheflink.svg" />
+<img align="left" height="32" width="32" background-color="#E6526F" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apacheflink.svg" />
 
-<img height="32" width="32" background-color="#E6526F" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+<img align="left" height="32" width="32" background-color="#E6526F" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
 
 <br />
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vvittis&hide=prs,issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
