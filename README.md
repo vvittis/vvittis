@@ -19,7 +19,7 @@
 
 <img align="left" height="32" width="32" style="fill:#060" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apacheflink.svg" />
 
-<img align="left" height="32" width="32" background-color="#E6526F" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.png" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.png" />
 
 <br />
 <br />
