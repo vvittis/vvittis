@@ -17,7 +17,7 @@
 
 ## Languages, Platforms and Tools
 
-<img align="left" height="32" width="32" background-color: green src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apacheflink.svg" />
+<img align="left" height="32" width="32" fill="#663399" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apacheflink.svg" />
 
 <img align="left" height="32" width="32" background-color="#E6526F" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.png" />
 
