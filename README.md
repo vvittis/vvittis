@@ -17,7 +17,7 @@
 
 ## Languages, Platforms and Tools
 
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apacheflink.svg" style="color:#1c87c9;"/>
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
 <br />
 <br />
