@@ -15,7 +15,7 @@
 -->
 <br />
 ### Languages, Platforms and Tools
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/#E6526F.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apacheflink.svg" />
 
 <br />
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vvittis&hide=prs,issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
