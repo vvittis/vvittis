@@ -17,9 +17,8 @@
 
 ## Languages, Platforms and Tools
 
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apacheflink.svg" style="background-color:#1c87c9;"/>
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apacheflink.svg" style="color:#1c87c9;"/>
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/apacheflink.svg" />
 <br />
 <br />
 
