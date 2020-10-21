@@ -15,13 +15,6 @@
 -->
 <br />
 
-## Languages, Platforms and Tools
-
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=green"/>
-
-<br />
-<br />
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vvittis&hide=prs,issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
