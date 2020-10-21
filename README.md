@@ -8,7 +8,7 @@
 - 👯 I’m currently learning Machine Learning in Big Data Streaming platforms (Apache Spark and Flink).
 - 🌱 I’m currently studing in the Technical University of Crete.
 - 👯 I’m looking to collaborate on different project in the field of Big Data.
-- 📫 How to reach me: [https://www.linkedin.com/in/vasilis-vittis/]
+- 📫 How to reach me at LinkedIn [Vasilis Vittis](https://www.linkedin.com/in/vasilis-vittis/)
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
