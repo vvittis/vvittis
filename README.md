@@ -15,9 +15,9 @@
 -->
 <br />
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+| Tables        | Are           |
+| ------------- |:-------------:| 
+| col 3 is      | right-aligned |
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vvittis&hide=prs,issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
