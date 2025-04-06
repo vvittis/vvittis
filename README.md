@@ -1,22 +1,5 @@
-### Hi there my name is Vasilis Vittis 👋
+# Hi, I'm Vasileios Vittis
 
-<!--
-**vvittis/vvittis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+I'm a Ph.D. candidate in Computer Science at UMass Amherst, working at the intersection of optimization and data systems. My research advances prescriptive analytics by building systems that not only analyze data but actively recommend high-quality decisions—scalable, efficient, and aware of real-world constraints.
 
-- 🔭 I’m currently working on Adaptive Random Forests in Apache Spark.
-- 👯 I’m currently learning Machine Learning in Big Data Streaming platforms (Apache Spark and Flink).
-- 🌱 I’m currently studing in the Technical University of Crete.
-- 👯 I’m looking to collaborate on different project in the field of Big Data.
-- 📫 How to reach me at LinkedIn [Vasilis Vittis](https://www.linkedin.com/in/vasilis-vittis/)
-<!--
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<br />
-
-
-<!--  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vvittis&include_all_commits=true&hide=prs,issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvittis&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
- 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvittis&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
